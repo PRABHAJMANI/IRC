@@ -22,6 +22,7 @@ These codes collectively enable the rover to participate in IRC missions, which 
 Here are some videos of our rover running on this very same codebase!
 
 https://github.com/user-attachments/assets/164acaa6-0631-4450-a801-cf7aa6e253f1
+
 https://github.com/user-attachments/assets/47a659ce-8654-42c5-8370-d296a4ddd15b
 
 
